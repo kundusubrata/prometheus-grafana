@@ -7,6 +7,11 @@ This project is a Node.js application integrated with Prometheus and Grafana for
 - Monitoring using Prometheus
 - Visualization using Grafana
 
+## Screenshots
+![Prometheus Page](/public/prometheus.png)
+![Grafana dashboard](/public/grafana-dashboard.png)
+
+
 ## Local Development
 
 ### Prerequisites
@@ -51,8 +56,4 @@ Ensure you have the following installed:
 - Default login: `admin` / `admin`
 - Configure a new data source for Prometheus: `http://localhost:9090`
 - Import dashboards for visualization
-
-## Screenshots
-![Prometheus Page](/public/prometheus.png)
-![Grafana dashboard](/public/grafana-dashboard.png)
 
